@@ -47,6 +47,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Hao Wang
 Name: NFCShortcuts
 
+Package: com.julioverne.ntspeed
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: julioverne
+Installed-Size: 460
+Depends: mobilesubstrate
+Filename: debs/com.julioverne.ntspeed_1.0.1_iphoneos-arm.deb
+Size: 36780
+MD5sum: 4c8d87bb74569b08dbbc41242c849224
+SHA1: d291af0db3d5793cddbff18bf46da31a880bd047
+SHA256: 70e57f58a973f0871e74004c79fd1dfcc7025fbef7183244b7544e96ed9f239e
+Section: Tweaks
+Description: See Active Traffic Network Speed
+Author: julioverne
+Name: NtSpeed
+
 Package: com.phillipt.toketime
 Version: 1.0.1-1+debug
 Architecture: iphoneos-arm
