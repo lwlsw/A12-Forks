@@ -1,0 +1,65 @@
+Package: ch.mdaus.latchkey
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 5716
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/ch.mdaus.latchkey_1.0.1-1_iphoneos-arm.deb
+Size: 2948576
+MD5sum: 9960cb26a0af1c1d41166c2a19fa6dbb
+SHA1: 2ce553b4d0d44c54fe8ed5ed743c16b50011e9c0
+SHA256: b9435da535bb200746fd4ea1ba00f3526bab0c6552b96751f6b5b12ec576d038
+Section: Tweaks
+Description: Move the Face-ID lock glyph to the status bar for a cleaner look.
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: http://mdaus.ch/repo/depictions/?p=ch.mdaus.latchkey
+Name: LatchKey
+
+Package: com.haotestlabs.nfcbackground
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Wang
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.haotestlabs.nfcbackground_1.0.1_iphoneos-arm.deb
+Size: 5692
+MD5sum: 5e5e255589c601b69d85677d83b497fb
+SHA1: 8b0ac4e81b54d726b9a651b1427d3510fecc7d6f
+SHA256: 80d33a76b1d7ad3727dd6bfac5b2c6f4fb33ce536d4108e1ca06dfa7900563df
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Hao Wang
+Name: NFCBackground
+
+Package: com.haotestlabs.nfcshortcuts
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Wang
+Installed-Size: 240
+Depends: mobilesubstrate, com.haotestlabs.nfcbackground
+Filename: debs/com.haotestlabs.nfcshortcuts_1.0.1_iphoneos-arm.deb
+Size: 19626
+MD5sum: 452874797cb145b0ad27613bbe6f6c59
+SHA1: ee358ce8144ff48823232ce8eab981f4ea3c92fd
+SHA256: d4b67beba706e7b77e4428ac290e7198dad7ec28b3d2a9151d6409477a3d1053
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Hao Wang
+Name: NFCShortcuts
+
+Package: com.phillipt.toketime
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Phillip Tennen
+Installed-Size: 876
+Depends: mobilesubstrate
+Filename: debs/com.phillipt.toketime_1.0.1-1+debug_iphoneos-arm.deb
+Size: 701636
+MD5sum: 75c01605392e98eef7d6db8c25c252f9
+SHA1: d799145ed7bd66334174614dd904234683be75ae
+SHA256: 767cd5adbadbe391ed35715ae578f3b253e92ec2619fd9a362d56f0468d8ed5e
+Section: Tweaks
+Description: Tokin'
+Author: Phillip Tennen
+Name: TokeTime
+
