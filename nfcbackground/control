@@ -1,0 +1,9 @@
+Package: com.haotestlabs.nfcbackground
+Name: NFCBackground
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hao Wang
+Author: Hao Wang
+Section: Tweaks
