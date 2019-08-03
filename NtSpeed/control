@@ -1,0 +1,9 @@
+Package: com.julioverne.ntspeed
+Name: NtSpeed
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: See Active Traffic Network Speed
+Maintainer: julioverne
+Author: julioverne
+Section: Tweaks
