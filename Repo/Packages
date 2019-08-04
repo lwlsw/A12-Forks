@@ -47,6 +47,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Hao Wang
 Name: NFCShortcuts
 
+Package: com.julioverne.musilyric
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: julioverne
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: debs/com.julioverne.musilyric_1.0.1_iphoneos-arm.deb
+Size: 25468
+MD5sum: 8e705fa2c3ce5dd38aa67eb2bdca1b7b
+SHA1: 758f02905a7a2cc692203d6101562a1ff6fc9694
+SHA256: 2a5d56044ddfe08d33653a24c3b96ab44d4af6232183911275ee25a268d3077a
+Section: Tweaks
+Description: Best Lyrics Music
+Author: julioverne
+Name: MusiLyric
+
 Package: com.julioverne.ntspeed
 Version: 1.0.1
 Architecture: iphoneos-arm
