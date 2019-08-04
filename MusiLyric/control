@@ -1,0 +1,9 @@
+Package: com.julioverne.musilyric
+Name: MusiLyric
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Best Lyrics Music
+Author: julioverne
+Section: Tweaks
+Maintainer: julioverne
