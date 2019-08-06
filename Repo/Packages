@@ -15,6 +15,23 @@ Author: Maxwell Dausch <max.dausch@gmail.com>
 Depiction: http://mdaus.ch/repo/depictions/?p=ch.mdaus.latchkey
 Name: LatchKey
 
+Package: com.haotestlabs.nfcactivator
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: ArandomDev <haow6449@gmail.com>
+Installed-Size: 256
+Depends: mobilesubstrate, com.haotestlabs.nfcbackground, ws.hbang.common (>= 1.2), libactivator (>= 1.8.3)
+Filename: debs/com.haotestlabs.nfcactivator_1.0.1-1_iphoneos-arm.deb
+Size: 28418
+MD5sum: c2534b62b308156a0b88db2d5ce1ccf9
+SHA1: 0cce6c7dcbad35dcc0855a90cf626cbe796e979b
+SHA256: 8b1b3a953c61583e10cf8bdc543ed3cc5759963eb7b0c3309c0dd7077e022774
+Section: Tweaks
+Description: Run activator actions by with a NFC tag.
+Author: ArandomDev <haow6449@gmail.com>
+Depiction: https://arandomdev.github.io/cydia/depictions/?p=com.haotestlabs.nfcactivator
+Name: NFCActivator
+
 Package: com.haotestlabs.nfcbackground
 Version: 1.0.1
 Architecture: iphoneos-arm
