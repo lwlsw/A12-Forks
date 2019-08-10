@@ -33,19 +33,20 @@ Depiction: https://arandomdev.github.io/cydia/depictions/?p=com.haotestlabs.nfca
 Name: NFCActivator
 
 Package: com.haotestlabs.nfcbackground
-Version: 1.0.1
+Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: Hao Wang
+Maintainer: ArandomDev <haow6449@gmail.com>
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: debs/com.haotestlabs.nfcbackground_1.0.1_iphoneos-arm.deb
-Size: 5692
-MD5sum: 5e5e255589c601b69d85677d83b497fb
-SHA1: 8b0ac4e81b54d726b9a651b1427d3510fecc7d6f
-SHA256: 80d33a76b1d7ad3727dd6bfac5b2c6f4fb33ce536d4108e1ca06dfa7900563df
+Filename: debs/com.haotestlabs.nfcbackground_1.0.3_iphoneos-arm.deb
+Size: 6036
+MD5sum: 24a4d68f47d07b10873fe922cdac61f8
+SHA1: 5c5a329a79a53d121215e80486b33805728b2995
+SHA256: 14666d068448fcdb2f4bed86b1bdd39d5c27e6200a0db369f10e30407138c9c0
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Hao Wang
+Description: Enables background reading of NFC tags on iPhone7 and up. This is mainly a helper tweak for others.
+Author: ArandomDev <haow6449@gmail.com>
+Depiction: https://arandomdev.github.io/cydia/depictions/?p=com.haotestlabs.nfcbackground
 Name: NFCBackground
 
 Package: com.haotestlabs.nfcshortcuts
